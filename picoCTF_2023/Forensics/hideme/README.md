@@ -4,7 +4,7 @@
 <blockquote>
   Every file gets a flag.<br/>
   The SOC analyst saw one image been sent back and forth between two people.<br/>
-  They decided to investigate and found out that there was more than what meets the eye <a href="picoCTF_2023/Forensics/hideme/flag.png">here</a>.
+  They decided to investigate and found out that there was more than what meets the eye <a href="https://github.com/KhanhCQ1511/picoCTF/blob/main/picoCTF_2023/Forensics/hideme/flag.png">here</a>.
 </blockquote>
 
 <h2>Solution</h2>
